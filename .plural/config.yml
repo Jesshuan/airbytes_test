@@ -1,0 +1,10 @@
+apiVersion: platform.plural.sh/v1alpha1
+kind: Config
+metadata: null
+spec:
+  email: jesshuan.dine@gmail.com
+  token: plrl-pFpXl8wWVI_E0dMSQddXy5lAR47ELVit2mFphApLLFOCRuURCuLu_wB671dqpjhNikBRHLPk5iCTXF66JkayJQ==
+  namespacePrefix: ""
+  endpoint: ""
+  lockProfile: ""
+  reportErrors: false
